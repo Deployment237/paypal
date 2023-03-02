@@ -1,4 +1,5 @@
-.net applications
-This is a paypal project
+We support;
+java applications
 Nodejs applications
 phython applications
+web applications
